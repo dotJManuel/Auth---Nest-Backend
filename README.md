@@ -24,7 +24,9 @@ $ npm run start:prod
 
 ## Backend en Nest
 
+
 ```
+# Leventar el contenedor de mongo
 docker compose up -d
 ```
 
